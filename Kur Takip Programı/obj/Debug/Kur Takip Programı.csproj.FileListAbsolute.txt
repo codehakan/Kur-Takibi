@@ -1,0 +1,49 @@
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\Kur Takip Programı.exe.config
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\Kur Takip Programı.exe
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\Kur Takip Programı.pdb
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.csprojAssemblyReference.cache
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur_Takip_Programı.Properties.Resources.resources
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.csproj.GenerateResource.cache
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.exe
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.pdb
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur_Takip_Programı.frm_main.resources
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.csproj.CopyComplete
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur_Takip_Programı.forms.frm_settings.resources
+C:\Users\HakanBey\source\repos\Kur Takip Programı\Kur Takip Programı\obj\Debug\Kur Takip Programı.exe.licenses
